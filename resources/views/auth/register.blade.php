@@ -75,3 +75,11 @@
     </div>
 </div>
 @endsection
+<style>
+    .card-header{
+        color: red;
+    }
+    .card{
+        color: red;
+    }
+</style>
